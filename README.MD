@@ -1,0 +1,2 @@
+# Adam Alma's Personal Website Repository
+With some time to kill since I am currently in between jobs I thought it would be a good time to rebuild my personal website to showcase my professional experience
